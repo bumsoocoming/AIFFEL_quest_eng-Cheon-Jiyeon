@@ -72,7 +72,7 @@ AIFFEL_quest_eng
 │   ├── Quest01
 │   │   ├── README.md
 │   │   └── .ipynb
-│   ├── Quest02
+    │   ├── Quest02
 │   │   ├── README.md
 │   │   └── .ipynb
 │   ├── Quest03
@@ -98,8 +98,8 @@ AIFFEL_quest_eng
 │   │   ├── README.md
 │   │   └── .ipynb
 │   └── NLP05
-│       ├── README.md
-│       └── .ipynb
+│   │   ├── README.md
+│   │   └── .ipynb
 ├── Python
 │   ├── Py01
 │   │   ├── README.md
